@@ -1,8 +1,6 @@
 # Team_7_Hackathon
 # StressLab — CPU and Memory Stress Testing Tool
 
-**Batch 7 | Operating Systems Hackathon Project**
-
 StressLab is a Python-based system testing and monitoring tool that generates controlled CPU and memory workloads and measures how the system responds. It provides a web-based dashboard for monitoring resource utilization, observing workload phases, and reviewing test results.
 
 ## 1. Problem Statement
