@@ -1,4 +1,4 @@
-# Team_7_OSSP_Hackathon
+# Team_7_Hackathon
 # StressLab — CPU and Memory Stress Testing Tool
 
 **Batch 7 | Operating Systems Hackathon Project**
